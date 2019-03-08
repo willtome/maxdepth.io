@@ -3,7 +3,7 @@ title: Max Depth
 description: '"the maximum operating depth of a breathing gas is the depth below which the partial pressure of oxygen of the gas mix exceeds an acceptable limit"'
 url: 'http://maxdepth.io'
 baseurl: ''
-# google_analytics: 'UA-XXXXXX-X'
+google_analytics: 'UA-111640496-1'
 # disqus_shortname: 'your-disqus-name'
 
 author:
@@ -39,4 +39,7 @@ kramdown:
   hard_wrap: false
 
 plugins: ['jekyll-paginate']
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
+
+
+github_comments_repository: willtome/maxdepth.io

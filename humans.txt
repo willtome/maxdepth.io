@@ -1,7 +1,7 @@
 ---
 layout: null
 sitemap:
-exclude: 'yes'
+  exclude: 'yes'
 ---
 
 /* TEAM */
@@ -9,7 +9,9 @@ Developer & Designer: Josh Gerdes
 Twitter: @joshgerdes
 Site: http://joshgerdes.com
 Location: Minneapolis, MN, USA
-						
+
+Comments By: https://github.com/dwilliamson/donw.io
+
 /* THANKS */
 Name: Dale Anthony
 
