@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Manage Red Hat Enterprise Linux like a Boss with Red Hat Ansible Content Collection for Red Hat Insights
-comment_id: 7
+comment_id: 9
 categories: [tech, ansible]
 tags: [tech, ansible]
 ---
